@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h3 {
+  text-transform: uppercase;
+  margin: 25px;
+}
+.form {
+  border: solid 1px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.btn {
+  margin: 20px 0;
+  width: 95%;
+}
+.outlined-basic {
+  margin: 10px;
+}
+h4,
+span {
+  color: black;
+}
